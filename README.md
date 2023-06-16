@@ -29,3 +29,6 @@ Train and Inference your So-VITS SVC models with simple tools to help you.
 🔉 Audio Normalization
 
 🎚️ Combine Audios
+
+
+	📝 Notes: Tell me if it not working! Thank you 🤗
