@@ -1,4 +1,5 @@
 # So-VITS-SVC-Notebook
+![alt text](https://repository-images.githubusercontent.com/654490329/ab89913c-c654-48e9-ac2c-ac667cf31155)
 Train and Inference your So-VITS SVC models with simple tools to help you.
 
 
