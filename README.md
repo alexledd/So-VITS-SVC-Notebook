@@ -44,4 +44,4 @@
 
 ---
 
-*<p align="center">📝 Notes: Tell me if it not working! Thank you 🤗*
+*<p align="center">📝 Notes: Tell me if it's not working! Thank you 🤗*
